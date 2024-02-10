@@ -5,12 +5,15 @@ public class exam {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int num1=10,num2=20,c,d;
+		int num1=10,num2=20,c,d,e;
 		c=num1+num2;
 		System.out.println("the sum is "+c);
 		
 		d=num1-num2;
 		System.out.println("the sub is "+d);
+		
+		e=num1*num2;
+		System.out.println("the mul is "+e);
 	}
 
 }
